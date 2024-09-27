@@ -1,6 +1,6 @@
 # Simple Chatbot
 
-I created this project this autumn 2024 to illustrate that I can carry out a complete chatbot application - from development (programming) including tests to deployment on the HuggingFace Spaces website. With this project, I want to show that I can put what I have learnt from my studies into practice with my curiosity, which should illustrate my solution-oriented way of working.
+I created this project this autumn 2024 to illustrate that I can carry out a complete chatbot application (running locally) - from development (programming) including tests to local deployment. With this project, I want to show that I can put what I have learnt from my studies into practice with my curiosity, which should illustrate my solution-oriented way of working.
 
 
 ## How to use
