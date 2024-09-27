@@ -1,10 +1,3 @@
----
-title: Simple_Chatbot_by_Viviane_Walker
-app_file: simple_chatbot/demo_chatbot.py
-sdk: gradio
-sdk_version: 4.42.0
----
-
 # Simple Chatbot
 
 I created this project this autumn 2024 to illustrate that I can carry out a complete chatbot application - from development (programming) including tests to deployment on the HuggingFace Spaces website. With this project, I want to show that I can put what I have learnt from my studies into practice with my curiosity, which should illustrate my solution-oriented way of working.
@@ -14,7 +7,7 @@ I created this project this autumn 2024 to illustrate that I can carry out a com
 
 1. Make sure that you installed all required packages by creating a virtual environment with the requirements.txt.
 2. Check whether you want to execute the code on CPU (default) or to GPU (you have to adjust the code).
-3. Execute the simple_chatbot/demo_chatbot.py file OR use the simple chatbot on my HuggingFace Spaces Website.
+3. Execute the simple_chatbot/demo_chatbot.py file
 
 
 ## Technical Specifications
